@@ -1,0 +1,2 @@
+"0","CellDiff <- read.csv(""../Data/differentiation_growth_data.csv"")"
+"0","head(CellDiff)"

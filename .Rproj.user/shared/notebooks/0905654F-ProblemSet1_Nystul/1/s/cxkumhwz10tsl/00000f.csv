@@ -1,0 +1,3 @@
+"0","CellDiff_summary <- CellDiff %>% group_by(Condition) %>% summarise(Mean = mean(Percent_Positive), StdDev = sd(Percent_Positive))"
+"0",""
+"0","CellDiff_summary"
